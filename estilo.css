@@ -1,1 +1,35 @@
 
+body{
+     background-color: rgb(184, 216, 234);}
+    
+     h1{
+        color: brown; 
+    text-align: center;}
+    
+    p{
+        font-size: larger;
+        text-align: justify;}
+       
+    h2{
+        font-size: 1.1em;}
+
+     caption{font-size: 1.1em;}
+
+     li{
+        margin-bottom: 10px;}
+
+     img{
+          border-radius: 15px;
+          width: 200px;
+          height: auto;}
+        
+    table{
+        background-color: aquamarine;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4);
+        border-radius: 8px;}
+
+        a{
+            text-decoration: none;}
+         a:hover {
+            color: red;
+              text-decoration: underline;         }
